@@ -1,1 +1,1 @@
-My low level language readme
+Start coding with C today
