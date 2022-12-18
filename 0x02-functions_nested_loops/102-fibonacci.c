@@ -19,10 +19,10 @@ int main(void)
 
 		if (i < 49)
 		{
-			prinf(", ");
+			printf(", ");
 		}
 		i++;
 	}
-	_putchar('\n');
+	putchar('\n');
 	return (0);
 }
