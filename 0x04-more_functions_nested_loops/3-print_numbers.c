@@ -2,8 +2,7 @@
 
 /**
  * print_numbers - write a fun that print number
- * @a: first number
- * @: second nmber
+ * : first number
  * Return: always return num 0 and 9
  */
 
