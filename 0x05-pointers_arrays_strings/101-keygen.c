@@ -16,7 +16,7 @@ int main(void)
 	{
 		paswd = (rand() % 128);
 		sum += paswd;
-		printf("%c", paswd);
+		printf("%c", 2772 - paswd);
 	}
 	return (0);
 }
