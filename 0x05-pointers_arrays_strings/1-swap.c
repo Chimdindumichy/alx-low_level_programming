@@ -12,6 +12,6 @@ void swap_int(int *a, int *b)
 	int pr = 13;
 
 	a = &pr;
-	a = b;
 	b = a;
+	a = b;
 }
